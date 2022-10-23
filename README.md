@@ -16,7 +16,10 @@ Evento exclusivo e gratuito, promovido ♥ by <a href="https://www.rocketseat.co
 </p>
 
 <br>
-
+<br>
+  <h2 align="center"> Deploy: <a href="https://cardpay-lab.vercel.app/"> CARDPAY</a> </h2>
+<br>
+<br>
 <p align="center">
   <img alt="card pay default" src=".github/cardDefault.jpg" width="100%">
 </p>
